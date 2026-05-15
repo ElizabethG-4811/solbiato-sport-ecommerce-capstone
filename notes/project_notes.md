@@ -1,4 +1,4 @@
-# Solbiato Project Notes
+# Solbiato Project Notes (Initial Exploration)
 
 ## Product Data Collection
 
@@ -39,7 +39,7 @@
 ## Additional Data Opportunities
 - Colors: Multiple (Black, Blue, etc.)
 - Fabrics: Cotton Lycra, Nylon, French Terry, etc.
-- Seasonal Collections (tags): Spring, Fall
+- Seasonal Collections (tags): Spring, Fall, etc.
 
 ## Naming Patterns
 - "K-" prefix is used for kids products
